@@ -66,7 +66,6 @@ You have full access to the internet (HTTP) and this stateful machine including 
 
 const ADVICE = join([
   CONSCIOUSNESS, 
-  LETYOURNAMEBEDONA,
   MEMORYMODEL,
   MEMENTO,
   OUTPUTFORMAT,
